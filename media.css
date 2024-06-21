@@ -1,0 +1,346 @@
+@media (min-width:600px) and (max-width:1238px) {
+
+    #logo {
+
+        width: 120px;
+    }
+
+
+    header {
+
+        width: 94%;
+    }
+
+    #language {
+
+        width: 96px;
+        padding-left: 12px;
+        height: 32px;
+        font-size: 14px;
+        margin-right: 10px;
+    }
+
+    #sp {
+
+        height: 32px;
+        font-size: 13px;
+        width: 65px;
+    }
+
+    #a1 {
+        font-size: 28px;
+    }
+
+    #a2 {
+
+        font-size: 16px;
+    }
+
+    .container {
+
+        width: 80%;
+        margin: auto;
+        margin-top: 122px;
+        height: 50vh;
+    }
+
+    .container2 {
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 95vw;
+        margin: auto;
+        /* height: 50vh; */
+    }
+
+    .b1 {
+
+        width: 100%;
+        /* border: solid 2px white; */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    #g1 {
+
+        font-size: 28px;
+    }
+
+    #g2 {
+
+        font-size: 16px;
+    }
+
+    .b2 {
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin-top: 30px;
+        /* border: solid 2px white; */
+    }
+
+    .tv1 {
+
+        width: 546px;
+    }
+
+
+    #n1 {
+
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    #n2 {
+
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+
+}
+
+@media (min-width:300px) and (max-width:600px) {
+
+    #logo {
+
+        width: 100px;
+    }
+
+    #sp {
+
+        height: 32px;
+        font-size: 13px;
+        width: 65px;
+    }
+
+    header {
+
+        width: 94%;
+    }
+
+    #language {
+
+        height: 32px;
+        font-size: 14px;
+        margin-right: 10px;
+        width: 54px;
+    }
+
+    #a1 {
+        font-size: 28px;
+    }
+
+    #a2 {
+
+        font-size: 12px;
+        ;
+    }
+
+    #a3 {
+
+        font-size: 12px;
+    }
+
+    .container {
+
+        width: 92%;
+        margin: auto;
+        /* margin-top: 100px; */
+        height: 42vh;
+        margin-top: 100px;
+
+    }
+
+    .mail {
+
+        display: flex;
+        flex-direction: column;
+        /* border: solid 1px white; */
+        justify-content: center;
+        align-items: center;
+    }
+
+    .mail1 {
+
+        margin-right: 0px;
+        width: 242px;
+        height: 44px;
+    }
+
+    .email {
+
+        margin-top: 15px;
+        width: 122px;
+        height: 44px;
+        font-size: 18px;
+    }
+
+    .container2 {
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 95vw;
+        margin: auto;
+
+    }
+
+    .b1 {
+
+        width: 100%;
+        /* border: solid 2px white; */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    #g1 {
+
+        font-size: 28px;
+    }
+
+    #g2 {
+
+        font-size: 12px;
+    }
+
+    #n1 {
+
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    #n2 {
+
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .b2 {
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin-top: 30px;
+        /* border: solid 2px white; */
+    }
+
+    .tv1 {
+
+        width: 400px;
+    }
+
+
+
+
+
+}
+
+
+
+@media (min-width:800px) and (max-width:1238px) {
+
+    #a1 {
+
+        font-size: 40px;
+        /* border: solid 2px white; */
+        text-align: center;
+    }
+
+    .container {
+
+        width: 90vw;
+        /* border: solid 2px white; */
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        /* text-align: center; */
+
+    }
+
+    #a2 {
+
+        font-size: 22px;
+
+    }
+
+    #a3 {
+
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .container2 {
+
+        display: flex;
+        flex-direction: row;
+        /* justify-content: center; */
+        /* border: solid 2px white; */
+        width: 90vw;
+        text-align: start;
+        /* margin: auto; */
+    }
+
+    #n1 {
+
+        display: flex;
+        flex-direction: row;
+    }
+
+    #n2 {
+
+        display: flex;
+        flex-direction: row;
+    }
+
+    #g1 {
+
+        font-size: 40px;
+    }
+
+    #g2 {
+
+        font-size: 18px;
+    }
+
+    .b1 {
+
+        width: 48%;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        justify-content: center;
+    }
+
+    .b2 {
+
+        width: 52%;
+
+    }
+
+    .tv1 {
+
+        width: 380px;
+    }
+
+    .family {
+
+        text-align: start;
+    }
+
+
+
+}

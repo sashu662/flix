@@ -1,0 +1,235 @@
+* {
+
+    padding: 0;
+    margin: 0;
+    /* background-color: black; */
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    color: white;
+}
+
+.home{
+
+    background-image: url(image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    /* width: 100vw; */
+    /* height: 100vh; */
+}
+
+
+body {
+
+    background-color: black;
+}
+
+header {
+
+
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    position: absolute;
+}
+
+.box1 {
+
+    display: flex;
+    width: 50%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    /* border: solid 2px white; */
+}
+
+.box2 {
+
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    align-items: center;
+    justify-content: end;
+    /* border: solid 2px white; */
+}
+
+#language {
+
+    color: white;
+    background-color: transparent;
+    height: 66%;
+    width: 28%;
+    border: solid 1px white;
+    border-radius: 4px;
+    font-size: 96%;
+    padding-left: 8%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 2%;
+}
+
+#sp {
+
+    color: white;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(225, 0, 0);
+    font-size: 96%;
+    height: 66%;
+    width: 13%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.container {
+
+    /* border: solid 2px wheat; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* margin-top: 100px; */
+    /* border: solid 2px white; */
+    height: 98vh;
+}
+
+#a1 {
+
+    font-size: 38px;
+    font-weight: 1000;
+
+}
+
+.family {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#a2 {
+
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#a3 {
+    margin-top: 20px;
+
+}
+
+.mail {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    /* border: solid 2px white; */
+}
+
+.mail1 {
+    width: 334px;
+    height: 46px;
+    color: white;
+    font-size: 14px;
+    border: solid 1px white;
+    border-radius: 4px;
+    background-color: transparent;
+    opacity: 1.2;
+    padding-left: 10px;
+    margin-right: 10px;
+
+}
+
+.email {
+    width: 175px;
+    height: 48px;
+    color: white;
+    border-radius: 4px;
+    background-color: rgb(225, 0, 0);
+    font-size: 24px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+
+
+
+.container2 {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    /* border: solid 2px white; */
+    /* width: 95vw;
+    margin: auto; */
+    /* height: 80vh; */
+    border-top: solid 4px rgb(68, 68, 68);
+    border-bottom: solid 4px rgb(68, 68, 68);
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+
+.b1 {
+
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    width: 40%
+}
+
+#g1 {
+
+    font-size: 38px;
+    font-weight: 1000;
+}
+
+#g2 {
+
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+.b2 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* border: solid 2px white; */
+    width: 40%;
+
+    position: relative;
+}
+
+.tv1 {
+    width: 470px;
+    position: relative;
+    z-index: 0;
+
+}
+
+#v1 {
+
+    position: absolute;
+    top: 74px;
+    right: 60px;
+    width: 345px;
+}
+
+main{
+
+    margin-bottom: 20px;
+}
